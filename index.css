@@ -1,0 +1,24 @@
+a {
+    color: darkgreen;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    display: inline-block;
+
+
+
+
+}
+
+.shapes {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
